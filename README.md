@@ -3,7 +3,7 @@
 
 - I’m currently learning **Clojure** and **Rust**
 
-- I've study at the University of Zurich, where I've also worked as a Teaching Assistant in Programming Techniques for Computational Linguistics 1 & 2
+- I study at the University of Zurich, where I've also worked as a Teaching Assistant in Programming Techniques for Computational Linguistics 1 & 2
 
 - I work as a Systems Administrator and Developer at <a href="https://cnd-ag.ch/de/">CND AG</a>
 
